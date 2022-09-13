@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "express": "^4.18.1"
-  }
+  },
+  "name": "nodeproyect",
+  "description": "Node Project Test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucaFedericoMarty/NodeProyect.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucaFedericoMarty/NodeProyect/issues"
+  },
+  "homepage": "https://github.com/LucaFedericoMarty/NodeProyect#readme"
 }
